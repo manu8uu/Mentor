@@ -1,0 +1,26 @@
+﻿# Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Java / Spring Boot
+**/target/
+**/build/
+
+# Node / Expo
+**/node_modules/
+**/.expo/
+**/dist/
+**/web-build/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
